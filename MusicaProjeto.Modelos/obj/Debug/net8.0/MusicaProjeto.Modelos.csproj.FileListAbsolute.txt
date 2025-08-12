@@ -1,0 +1,22 @@
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\bin\Debug\net8.0\MusicaProjeto.Modelos.deps.json
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\bin\Debug\net8.0\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\bin\Debug\net8.0\MusicaProjeto.Modelos.pdb
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\refint\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.pdb
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Modelos\obj\Debug\net8.0\ref\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\bin\Debug\net8.0\MusicaProjeto.Modelos.deps.json
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\bin\Debug\net8.0\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\bin\Debug\net8.0\MusicaProjeto.Modelos.pdb
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\refint\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\MusicaProjeto.Modelos.pdb
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Modelos\obj\Debug\net8.0\ref\MusicaProjeto.Modelos.dll

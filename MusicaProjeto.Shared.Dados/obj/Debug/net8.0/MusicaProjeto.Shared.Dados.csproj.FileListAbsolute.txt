@@ -1,0 +1,34 @@
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.deps.json
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.runtimeconfig.json
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.pdb
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Modelos.pdb
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaPr.9E452D22.Up2Date
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\refint\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.pdb
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Musica Projeto\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\ref\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.deps.json
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.runtimeconfig.json
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Shared.Dados.pdb
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Modelos.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\bin\Debug\net8.0\MusicaProjeto.Modelos.pdb
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaPr.9E452D22.Up2Date
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\refint\MusicaProjeto.Shared.Dados.dll
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.pdb
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\MusicaProjeto.Shared.Dados.genruntimeconfig.cache
+C:\Users\alexa\source\repos\JuniorRosaV\APIRestMusica\MusicaProjeto.Shared.Dados\obj\Debug\net8.0\ref\MusicaProjeto.Shared.Dados.dll

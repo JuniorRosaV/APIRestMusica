@@ -1,0 +1,334 @@
+[
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.ArtistasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsArtistas\u003Eb__0_0",
+    "RelativePath": "Artistas",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Artistas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.ArtistasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsArtistas\u003Eb__0_2",
+    "RelativePath": "Artistas",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artistasRequest",
+        "Type": "MusicaProjeto.API.Requests.ArtistasRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Artistas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.ArtistasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsArtistas\u003Eb__0_4",
+    "RelativePath": "Artistas",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artistaRequestEdit",
+        "Type": "MusicaProjeto.API.Requests.ArtistaRequestEdit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Artistas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.ArtistasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsArtistas\u003Eb__0_3",
+    "RelativePath": "Artistas/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Artistas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.ArtistasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsArtistas\u003Eb__0_1",
+    "RelativePath": "Artistas/{nome}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Artistas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.GenerosExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsGeneros\u003Eb__0_0",
+    "RelativePath": "Generos",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Generos"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.GenerosExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsGeneros\u003Eb__0_2",
+    "RelativePath": "Generos",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "GenerosRequest",
+        "Type": "MusicaProjeto.API.Requests.GenerosRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Generos"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.GenerosExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsGeneros\u003Eb__0_3",
+    "RelativePath": "Generos/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Generos"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.GenerosExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsGeneros\u003Eb__0_1",
+    "RelativePath": "Generos/{nome}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Generos"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.MusicasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsMusicas\u003Eb__0_0",
+    "RelativePath": "Musicas",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Musicas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.MusicasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsMusicas\u003Eb__0_2",
+    "RelativePath": "Musicas",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musicasRequest",
+        "Type": "ScreenSound.API.Requests.MusicaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Musicas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.MusicasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsMusicas\u003Eb__0_4",
+    "RelativePath": "Musicas",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musica",
+        "Type": "Musicas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Musicas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.MusicasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsMusicas\u003Eb__0_3",
+    "RelativePath": "Musicas/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Musicas"
+    ]
+  },
+  {
+    "ContainingType": "MusicaProjeto.API.Endpoints.MusicasExtends\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndPointsMusicas\u003Eb__0_1",
+    "RelativePath": "Musicas/{nome}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Musicas"
+    ]
+  }
+]
